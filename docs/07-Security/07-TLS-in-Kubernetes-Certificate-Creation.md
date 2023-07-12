@@ -72,6 +72,9 @@ In this section, we will take a look at TLS certificate creation in kubernetes
   ![api2](../../images/api2.PNG)
   
 ## Kubectl Nodes (Server Cert)
+ ```
+   Hi, this is just for  test
+  ```
 
    ![kctl1](../../images/kctl1.PNG)
    
