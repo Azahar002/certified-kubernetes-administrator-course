@@ -10,7 +10,7 @@ In this section, we will take a look how to view certificates in a kubernetes cl
  
  - To view the details of the certificate
    ```
-   $ openssl x509 -in /etc/kubernetes/pki/apiserver.crt -text -noout
+    openssl x509 -in /etc/kubernetes/pki/apiserver.crt -text -noout
    ```
    
    ![hrd2](../../images/hrd2.PNG)
@@ -22,7 +22,7 @@ In this section, we will take a look how to view certificates in a kubernetes cl
 ## Inspect Server Logs - Hardware setup
 - Inspect server logs using journalctl
   ```
-  $ journalctl -u etcd.service -l
+   journalctl -u etcd.service -l
   ```
   
   ![hrd4](../../images/hrd4.PNG)
@@ -30,7 +30,7 @@ In this section, we will take a look how to view certificates in a kubernetes cl
 ## Inspect Server Logs - kubeadm setup
 - View logs using kubectl
   ```
-  $ kubectl logs etcd-master
+  kubectl logs etcd-master
   ```
   ![hrd5](../../images/hrd5.PNG)
   
