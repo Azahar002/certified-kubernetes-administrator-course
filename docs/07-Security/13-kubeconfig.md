@@ -59,6 +59,9 @@ In this section, we will take a look at kubeconfig in kubernetes
 ## Certificates in kubeconfig
 
   ![kc10](../../images/kc10.PNG)
+  it is better to use the full paths like below image
+  <img width="1440" alt="Screenshot 2023-07-14 at 10 46 27 PM" src="https://github.com/Azahar002/certified-kubernetes-administrator-course/assets/108210581/c1d4c2c3-35de-4d89-8829-fc6ee06d00de">
+
  
   ![kc12](../../images/kc12.PNG)
   
