@@ -21,6 +21,8 @@ In this section, we will take a look at kubeconfig in kubernetes
   - USers
   
   ![kc4](../../images/kc4.PNG)
+  <img width="1440" alt="Screenshot 2023-07-14 at 10 40 24 PM" src="https://github.com/Azahar002/certified-kubernetes-administrator-course/assets/108210581/2d47f5e1-3eba-423a-b45e-4a2b5d58ce98">
+
   
   ![kc5](../../images/kc5.PNG)
   
