@@ -44,7 +44,9 @@ In this section, we will take a look at authorization in kubernetes
 - When you specify multiple modes, it will authorize in the order in which it is specified
 
   ![mode1](../../images/mode1.PNG)
-  
+
+  <img width="1041" alt="Screenshot 2023-07-15 at 3 50 40 PM" src="https://github.com/Azahar002/certified-kubernetes-administrator-course/assets/108210581/d6cbdcb4-24f3-4772-a0c9-b1fb256720cb">
+
   
   #### K8s Reference Docs
   - https://kubernetes.io/docs/reference/access-authn-authz/authorization/
